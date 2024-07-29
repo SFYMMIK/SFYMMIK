@@ -12,9 +12,9 @@
 - I mainly make my code as FOSS
 
 <h3 align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SFYMMIK&show_icons=true&locale=en&layout=compact"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SFYMMIK&show_icons=true&locale=en&theme=dracula&layout=compact"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SFYMMIK&show_icons=true&locale=en"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SFYMMIK&show_icons=true&theme=dracula&locale=en"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SFYMMIK&"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SFYMMIK&theme=dracula&"/></p>
 <h3 align="left">
