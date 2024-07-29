@@ -12,7 +12,7 @@
 - I mainly make my code as FOSS
 
 <h3 align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SFYMMIK&show_icons=true&locale=en&layout=dracula"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SFYMMIK&show_icons=true&locale=en&layout=compact"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SFYMMIK&show_icons=true&locale=en"/></p>
 
