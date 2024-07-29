@@ -16,5 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SFYMMIK&show_icons=true&locale=en"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SFYMMIK&dracula"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SFYMMIK&"/></p>
 <h3 align="left">
