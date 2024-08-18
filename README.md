@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Sfymmik</h1>
 <h3 align="center">A multi-language programmer programmer from Żory, Poland</h3>
 
-- I’m currently working on [MySimpleOSKernel](https://github.com/SFYMMIK/MySimpleOSKernel)
+- I’m currently working on [MySimpleOSKernel](https://github.com/SFYMMIK/MySimpleOSKernel), [FreeSPL](https://github.com/SFYMMIK/FreeSPL), [OpenMusicBot](https://github.com/SFYMMIK/OpenMusicBot_Reborn)
 
 - All of my projects are available right here on github
 
