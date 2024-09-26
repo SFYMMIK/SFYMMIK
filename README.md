@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Sfymmik</h1>
 <h3 align="center">A multi-language programmer programmer from Żory, Poland</h3>
 
-- I’m currently working on [SBPMA](https://github.com/SFYMMIK/SBPMA), [SGFS](https://github.com/SFYMMIK/SGFS),
+- I’m currently working on [SBPMA](https://github.com/SFYMMIK/SBPMA), [SGFS](https://github.com/SFYMMIK/SGFS), [CursedOS](https://github.com/SFYMMIK/CursedOS).
 
 - All of my projects are available right here on github
 
