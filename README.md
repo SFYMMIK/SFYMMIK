@@ -12,4 +12,4 @@
 - Donald Tusk is a traitor of Poland
 - Grzegorz Braun is right at almost every aspect
 - illegal immigration should be fought of using violence if needed
-- Silesia (where i live) should becom its own country
+- Silesia (where i live) should become its own country
