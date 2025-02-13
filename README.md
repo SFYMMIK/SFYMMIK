@@ -1,6 +1,6 @@
 # Yo SFYMMIK here, as you can see this is my github profile, nothing much like seroius goes on here only some projects i do for fun except for SGFS.
 ## Experiences
-- Web Developer for the AquaOS Project
+- Web Developer for the Orion Project
 - C enthusiast
 - 15 yo
 - Soon to be IT Technician (Technik Informatyk)
