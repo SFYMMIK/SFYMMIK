@@ -14,7 +14,6 @@
 - **OpenIFS** — Self-designed FOSS image file format with a custom RGB palette, showcasing advanced serialization work.
 - **QtPy** — Cross-platform IDE written entirely in Python, supporting Windows, Linux, macOS, etc.
 - **QWFF** — “Quick Website File Fetcher” in JavaScript, which retrieves and returns a site’s source code.
-- **MVConverter** — Minimalistic Python tool to convert video files into audio (WAV/MP3).
 
 ## About
 
