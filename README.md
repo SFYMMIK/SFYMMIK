@@ -1,7 +1,9 @@
 # SFYMMIK
 
 - 15 y/o systems & software enthusiast
-- I like building things from scratch — from kernels to filesystems to programming languages
+- C2 English speaking/writing level (almost-native)
+- C2+ Polish speaking/writing level (native)
+- I do use Linux, I would never see myself doing anything other than websites on windows (I use arch btw)
 
 ## Projects
 
