@@ -2,7 +2,6 @@
 
 - 15 y/o systems & software enthusiast
 - C1.1 English speaking/writing level according to englishradar.com (near-native)
-- C2+ Polish speaking/writing level (native)
 - I do use Linux, I would never see myself doing anything other than websites on windows (I use arch/gentoo btw)
 
 ## Projects
