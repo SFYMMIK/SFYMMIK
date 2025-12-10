@@ -1,3 +1,7 @@
+# INFORMATION
+## My account here on github is a mirror for codeberg so I'm not really active here click the link below for my codeberg account:
+- https://codeberg.org/SfymmiK
+
 # SFYMMIK
 
 - 15 y/o systems & software enthusiast
