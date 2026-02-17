@@ -1,6 +1,6 @@
 # INFORMATION
-## My account here on github is a mirror for codeberg so I'm not really active here click the link below for my codeberg account:
-- https://codeberg.org/SfymmiK
+## My account here on github is a mirror for my own git instance so I'm not really active here click the link below for my instance's account:
+- https://git.sfymmik.xyz/SfymmiK
 
 # SFYMMIK
 
